@@ -109,4 +109,4 @@ public class Main {
 
 java keywords
 
-* => [here](images/Java_Keywords.png)
+* => [here](/images/Java_Keywords.png)
