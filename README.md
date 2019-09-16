@@ -17,7 +17,7 @@ java basic
 ### install and uninstall
 
 * [gerry jenkins](https://www.youtube.com/watch?v=MjcBz2JhhQ4)
-
+* [sdet](https://www.youtube.com/watch?v=UXreD6NCC3g)
 
 
 
