@@ -14,6 +14,24 @@ java basic
 
 
 
+### intellij docs
+
+* [discover](https://www.jetbrains.com/help/idea/discover-intellij-idea.html)
+
+
+
+
+&nbsp;
+
+---
+
+&nbsp;
+
+
+
+
+
+
 ### install and uninstall
 
 * [gerry jenkins](https://www.youtube.com/watch?v=MjcBz2JhhQ4)
